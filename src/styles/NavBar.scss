@@ -1,0 +1,48 @@
+.navbar-wrapper {
+  position:fixed;
+    width: 80vw;
+    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .name {  
+      font-weight: 600;
+    }
+
+    
+    @include media("<tablet", "<desktop",) {
+      font-size: 0.8rem;
+    }
+    .links-wrapper {
+      button {
+        text-decoration: none;
+        padding: 10px;
+        font-family: "Open Sans";
+        opacity: 0.9;
+        transition: all 0.2s ease-in-out;
+        font-size: 14px;
+        background-color: transparent;
+        outline: none;
+        border: 0px;
+        font-weight: bold;
+        cursor: pointer;
+        &:hover {
+          opacity: 2;
+        }
+        @include media(">=phone", "<lgphone") {
+          font-size: 1rem;
+          line-height: 10px;
+        }
+        @include media(">=lgphone", "<tablet") {
+          font-size: 0.75rem;
+          line-height: 10px;
+        }
+        @include media("<tablet", "<desktop",) {
+          font-size: 0.6rem;
+        }
+      }
+      .active {
+        color: black;
+      }
+    }
+  }
