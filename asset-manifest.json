@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cropanalyzer/static/css/main.15c0708e.chunk.css",
+    "main.js": "/cropanalyzer/static/js/main.cb7e24e2.chunk.js",
+    "main.js.map": "/cropanalyzer/static/js/main.cb7e24e2.chunk.js.map",
+    "runtime-main.js": "/cropanalyzer/static/js/runtime-main.c1b21d88.js",
+    "runtime-main.js.map": "/cropanalyzer/static/js/runtime-main.c1b21d88.js.map",
+    "static/js/2.509cb4ce.chunk.js": "/cropanalyzer/static/js/2.509cb4ce.chunk.js",
+    "static/js/2.509cb4ce.chunk.js.map": "/cropanalyzer/static/js/2.509cb4ce.chunk.js.map",
+    "static/js/3.f70a5c68.chunk.js": "/cropanalyzer/static/js/3.f70a5c68.chunk.js",
+    "static/js/3.f70a5c68.chunk.js.map": "/cropanalyzer/static/js/3.f70a5c68.chunk.js.map",
+    "index.html": "/cropanalyzer/index.html",
+    "static/css/main.15c0708e.chunk.css.map": "/cropanalyzer/static/css/main.15c0708e.chunk.css.map",
+    "static/js/2.509cb4ce.chunk.js.LICENSE.txt": "/cropanalyzer/static/js/2.509cb4ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1b21d88.js",
+    "static/js/2.509cb4ce.chunk.js",
+    "static/css/main.15c0708e.chunk.css",
+    "static/js/main.cb7e24e2.chunk.js"
+  ]
+}
